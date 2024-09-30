@@ -1,0 +1,2 @@
+https://guide.ncloud-docs.com/docs/clovastudio-playground
+https://guide.ncloud-docs.com/docs/clovastudio-spec
